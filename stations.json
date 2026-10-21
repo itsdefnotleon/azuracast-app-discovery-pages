@@ -1,0 +1,137 @@
+{
+  "lastUpdated": "Oct 2026",
+  "featuredStations": {
+    "lastUpdated": "Oct 2026",
+    "title": "Featured Stations",
+    "description": "Stations hand-picked by listeners for listeners",
+    "stations": [
+      {
+        "friendlyName": "Swarm Radio",
+        "shortCode": "swarm",
+        "imageMediaUrl": "https://live.typicalnerds.co.uk/api/station/swarm/art/-1",
+        "plsUrl": "https://live.typicalnerds.co.uk/public/swarm/playlist.pls",
+        "publicPlayerUrl": "https://live.typicalnerds.co.uk/public/swarm",
+        "preferredMount": "https://stream.zeno.fm/acunkwb7nf9uv",
+        "description": "Neuro-Samas Unofficial Radio Station",
+        "supportsHls": true,
+        "hlsUrl": "https://live.typicalnerds.co.uk/hls/swarm/live.m3u8"
+      },
+      {
+        "friendlyName": "ilikeRadio",
+        "shortCode": "ilikeradio",
+        "imageMediaUrl": "https://live.typicalnerds.co.uk/api/station/ilikeradio/art/-1",
+        "plsUrl": "https://live.typicalnerds.co.uk/public/ilikeradio/playlist.pls",
+        "publicPlayerUrl": "https://live.typicalnerds.co.uk/public/ilikeradio",
+        "preferredMount": "https://stream.zeno.fm/otmlz6yddt6vv",
+        "description": "All the music you like, all in one place.",
+        "supportsHls": true,
+        "hlsUrl": "https://live.typicalnerds.co.uk/hls/ilikeradio/live.m3u8"
+      },
+      {
+        "friendlyName": "FLU DRUID FM",
+        "shortCode": "flu-druid",
+        "imageMediaUrl": "https://live.typicalnerds.co.uk/api/station/flu-druid/art/-1",
+        "plsUrl": "https://live.typicalnerds.co.uk/public/flu-druid/playlist.pls",
+        "publicPlayerUrl": "https://live.typicalnerds.co.uk/public/flu-druid",
+        "preferredMount": "https://live.typicalnerds.co.uk/listen/flu-druid/stream",
+        "description": "Non-Stop Tracks By FLU DRUID",
+        "supportsHls": false,
+        "hlsUrl": null
+      },
+      {
+        "friendlyName": "Zyphorix Radio",
+        "shortCode": "zphx",
+        "imageMediaUrl": "https://live.typicalnerds.co.uk/api/station/zphx/art/-1",
+        "plsUrl": "https://live.typicalnerds.co.uk/public/zphx/playlist.pls",
+        "publicPlayerUrl": "https://live.typicalnerds.co.uk/public/zphx",
+        "preferredMount": "https://live.typicalnerds.co.uk/listen/zphx/stream",
+        "description": "",
+        "supportsHls": false,
+        "hlsUrl": null
+      }
+    ]
+  },
+  "discoveryStations": [
+    {
+      "lastUpdated": "Oct 2026",
+      "title": "Zyphorix Network",
+      "description": "Radio, raves and throwbacks from Zyphorix",
+      "stations": [
+        {
+          "friendlyName": "Zyphorix Radio",
+          "shortCode": "zphx",
+          "imageMediaUrl": "https://live.typicalnerds.co.uk/api/station/zphx/art/-1",
+          "plsUrl": "https://live.typicalnerds.co.uk/public/zphx/playlist.pls",
+          "publicPlayerUrl": "https://live.typicalnerds.co.uk/public/zphx",
+          "preferredMount": "https://live.typicalnerds.co.uk/listen/zphx/stream",
+          "description": "",
+          "supportsHls": false,
+          "hlsUrl": null
+        },
+        {
+          "friendlyName": "Zyphorix Rave",
+          "shortCode": "zphx-rave",
+          "imageMediaUrl": "https://live.typicalnerds.co.uk/api/station/zphx-rave/art/-1",
+          "plsUrl": "https://live.typicalnerds.co.uk/public/zphx-rave/playlist.pls",
+          "publicPlayerUrl": "https://live.typicalnerds.co.uk/public/zphx-rave",
+          "preferredMount": "https://live.typicalnerds.co.uk/listen/zphx-rave/stream",
+          "description": "",
+          "supportsHls": false,
+          "hlsUrl": null
+        },
+        {
+          "friendlyName": "Zyphorix Throwbacks",
+          "shortCode": "zphx-throwbacks",
+          "imageMediaUrl": "https://live.typicalnerds.co.uk/api/station/zphx-throwbacks/art/-1",
+          "plsUrl": "https://live.typicalnerds.co.uk/public/zphx-throwbacks/playlist.pls",
+          "publicPlayerUrl": "https://live.typicalnerds.co.uk/public/zphx-throwbacks",
+          "preferredMount": "https://live.typicalnerds.co.uk/listen/zphx-throwbacks/stream",
+          "description": "All Your Throwback Classics",
+          "supportsHls": true,
+          "hlsUrl": "https://live.typicalnerds.co.uk/hls/zphx-throwbacks/live.m3u8"
+        }
+      ]
+    },
+    {
+      "lastUpdated": "Oct 2026",
+      "title": "Independent Stations",
+      "description": "Standalone stations from the Typical Nerds network",
+      "stations": [
+        {
+          "friendlyName": "FLU DRUID FM",
+          "shortCode": "flu-druid",
+          "imageMediaUrl": "https://live.typicalnerds.co.uk/api/station/flu-druid/art/-1",
+          "plsUrl": "https://live.typicalnerds.co.uk/public/flu-druid/playlist.pls",
+          "publicPlayerUrl": "https://live.typicalnerds.co.uk/public/flu-druid",
+          "preferredMount": "https://live.typicalnerds.co.uk/listen/flu-druid/stream",
+          "description": "Non-Stop Tracks By FLU DRUID",
+          "supportsHls": false,
+          "hlsUrl": null
+        },
+        {
+          "friendlyName": "ilikeRadio",
+          "shortCode": "ilikeradio",
+          "imageMediaUrl": "https://live.typicalnerds.co.uk/api/station/ilikeradio/art/-1",
+          "plsUrl": "https://live.typicalnerds.co.uk/public/ilikeradio/playlist.pls",
+          "publicPlayerUrl": "https://live.typicalnerds.co.uk/public/ilikeradio",
+          "preferredMount": "https://stream.zeno.fm/otmlz6yddt6vv",
+          "description": "All the music you like, all in one place.",
+          "supportsHls": true,
+          "hlsUrl": "https://live.typicalnerds.co.uk/hls/ilikeradio/live.m3u8"
+        },
+        {
+          "friendlyName": "Swarm Radio",
+          "shortCode": "swarm",
+          "imageMediaUrl": "https://live.typicalnerds.co.uk/api/station/swarm/art/-1",
+          "plsUrl": "https://live.typicalnerds.co.uk/public/swarm/playlist.pls",
+          "publicPlayerUrl": "https://live.typicalnerds.co.uk/public/swarm",
+          "preferredMount": "https://stream.zeno.fm/acunkwb7nf9uv",
+          "description": "Neuro-Samas Unofficial Radio Station",
+          "supportsHls": true,
+          "hlsUrl": "https://live.typicalnerds.co.uk/hls/swarm/live.m3u8"
+        }
+      ]
+    }
+  ],
+  "formLink": "Link Coming Soon"
+}
