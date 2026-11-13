@@ -1,109 +1,185 @@
 {
-  "lastUpdated": "Oct 2026",
+  "lastUpdated": "Nov 2026",
   "featuredStations": {
-    "lastUpdated": "Oct 2026",
+    "lastUpdated": "Nov 2026",
     "title": "Featured Stations",
     "description": "Stations hand-picked by listeners for listeners",
     "stations": [
       {
         "friendlyName": "Swarm Radio",
         "shortCode": "swarm",
-        "imageMediaUrl": "https://live.typicalnerds.co.uk/api/station/swarm/art/-1",
-        "plsUrl": "https://live.typicalnerds.co.uk/public/swarm/playlist.pls",
-        "publicPlayerUrl": "https://live.typicalnerds.co.uk/public/swarm",
+        "imageMediaUrl": "https://stream.zyphonic.co.uk/api/station/swarm/art/-1",
+        "plsUrl": "https://stream.zyphonic.co.uk/public/swarm/playlist.pls",
+        "publicPlayerUrl": "https://stream.zyphonic.co.uk/public/swarm",
         "preferredMount": "https://stream.zeno.fm/acunkwb7nf9uv",
         "description": "Neuro-Samas Unofficial Radio Station",
         "supportsHls": true,
-        "hlsUrl": "https://live.typicalnerds.co.uk/hls/swarm/live.m3u8"
+        "hlsUrl": "https://stream.zyphonic.co.uk/hls/swarm/live.m3u8"
       },
       {
         "friendlyName": "ilikeRadio",
         "shortCode": "ilikeradio",
-        "imageMediaUrl": "https://live.typicalnerds.co.uk/api/station/ilikeradio/art/-1",
-        "plsUrl": "https://live.typicalnerds.co.uk/public/ilikeradio/playlist.pls",
-        "publicPlayerUrl": "https://live.typicalnerds.co.uk/public/ilikeradio",
+        "imageMediaUrl": "https://stream.zyphonic.co.uk/api/station/ilikeradio/art/-1",
+        "plsUrl": "https://stream.zyphonic.co.uk/public/ilikeradio/playlist.pls",
+        "publicPlayerUrl": "https://stream.zyphonic.co.uk/public/ilikeradio",
         "preferredMount": "https://stream.zeno.fm/otmlz6yddt6vv",
         "description": "All the music you like, all in one place.",
         "supportsHls": true,
-        "hlsUrl": "https://live.typicalnerds.co.uk/hls/ilikeradio/live.m3u8"
+        "hlsUrl": "https://stream.zyphonic.co.uk/hls/ilikeradio/live.m3u8"
       },
       {
-        "friendlyName": "FLU DRUID FM",
-        "shortCode": "flu-druid",
-        "imageMediaUrl": "https://live.typicalnerds.co.uk/api/station/flu-druid/art/-1",
-        "plsUrl": "https://live.typicalnerds.co.uk/public/flu-druid/playlist.pls",
-        "publicPlayerUrl": "https://live.typicalnerds.co.uk/public/flu-druid",
-        "preferredMount": "https://live.typicalnerds.co.uk/listen/flu-druid/stream",
-        "description": "Non-Stop Tracks By FLU DRUID",
-        "supportsHls": false,
-        "hlsUrl": null
+        "friendlyName": "Zyphonic Anthems",
+        "shortCode": "anthems",
+        "imageMediaUrl": "https://stream.zyphonic.co.uk/api/station/anthems/art/-1",
+        "plsUrl": "https://stream.zyphonic.co.uk/public/anthems/playlist.pls",
+        "publicPlayerUrl": "https://stream.zyphonic.co.uk/public/anthems",
+        "preferredMount": "https://lakeside.party/listen/anthems/stream",
+        "description": "Feel-Good Favorites & Timeless Classics from the Golden Eras of Music.",
+        "supportsHls": true,
+        "hlsUrl": "https://lakeside.party/hls/anthems/live.m3u8"
       },
       {
-        "friendlyName": "Zyphorix Radio",
-        "shortCode": "zphx",
-        "imageMediaUrl": "https://live.typicalnerds.co.uk/api/station/zphx/art/-1",
-        "plsUrl": "https://live.typicalnerds.co.uk/public/zphx/playlist.pls",
-        "publicPlayerUrl": "https://live.typicalnerds.co.uk/public/zphx",
-        "preferredMount": "https://live.typicalnerds.co.uk/listen/zphx/stream",
-        "description": "",
-        "supportsHls": false,
-        "hlsUrl": null
+        "friendlyName": "Zyphonic Dance",
+        "shortCode": "dance",
+        "imageMediaUrl": "https://stream.zyphonic.co.uk/api/station/dance/art/-1",
+        "plsUrl": "https://stream.zyphonic.co.uk/public/dance/playlist.pls",
+        "publicPlayerUrl": "https://stream.zyphonic.co.uk/public/dance",
+        "preferredMount": "https://radio.bandofgold.co.uk/listen/dance/stream",
+        "description": "Mixing the Biggest Dance Tracks 24/7",
+        "supportsHls": true,
+        "hlsUrl": "https://radio.bandofgold.co.uk/hls/dance/live.m3u8"
       }
     ]
   },
   "discoveryStations": [
     {
-      "lastUpdated": "Oct 2026",
-      "title": "Zyphorix Network",
-      "description": "Radio, raves and throwbacks from Zyphorix",
+      "lastUpdated": "Nov 2026",
+      "title": "Chill & Relax",
+      "description": "Slow it down with laid-back beats and relaxing soundtracks",
       "stations": [
         {
-          "friendlyName": "Zyphorix Radio",
-          "shortCode": "zphx",
-          "imageMediaUrl": "https://live.typicalnerds.co.uk/api/station/zphx/art/-1",
-          "plsUrl": "https://live.typicalnerds.co.uk/public/zphx/playlist.pls",
-          "publicPlayerUrl": "https://live.typicalnerds.co.uk/public/zphx",
-          "preferredMount": "https://live.typicalnerds.co.uk/listen/zphx/stream",
-          "description": "",
-          "supportsHls": false,
-          "hlsUrl": null
-        },
-        {
-          "friendlyName": "Zyphorix Rave",
-          "shortCode": "zphx-rave",
-          "imageMediaUrl": "https://live.typicalnerds.co.uk/api/station/zphx-rave/art/-1",
-          "plsUrl": "https://live.typicalnerds.co.uk/public/zphx-rave/playlist.pls",
-          "publicPlayerUrl": "https://live.typicalnerds.co.uk/public/zphx-rave",
-          "preferredMount": "https://live.typicalnerds.co.uk/listen/zphx-rave/stream",
-          "description": "",
-          "supportsHls": false,
-          "hlsUrl": null
-        },
-        {
-          "friendlyName": "Zyphorix Throwbacks",
-          "shortCode": "zphx-throwbacks",
-          "imageMediaUrl": "https://live.typicalnerds.co.uk/api/station/zphx-throwbacks/art/-1",
-          "plsUrl": "https://live.typicalnerds.co.uk/public/zphx-throwbacks/playlist.pls",
-          "publicPlayerUrl": "https://live.typicalnerds.co.uk/public/zphx-throwbacks",
-          "preferredMount": "https://live.typicalnerds.co.uk/listen/zphx-throwbacks/stream",
-          "description": "All Your Throwback Classics",
+          "friendlyName": "Zyphonic Chill",
+          "shortCode": "chill",
+          "imageMediaUrl": "https://stream.zyphonic.co.uk/api/station/chill/art/-1",
+          "plsUrl": "https://stream.zyphonic.co.uk/public/chill/playlist.pls",
+          "publicPlayerUrl": "https://stream.zyphonic.co.uk/public/chill",
+          "preferredMount": "https://lakeside.party/listen/chill/stream",
+          "description": "Non-Stop Chilled Beats & Relaxation Essentials",
           "supportsHls": true,
-          "hlsUrl": "https://live.typicalnerds.co.uk/hls/zphx-throwbacks/live.m3u8"
+          "hlsUrl": "https://lakeside.party/hls/chill/live.m3u8"
+        },
+        {
+          "friendlyName": "Zyphonic Relaxed",
+          "shortCode": "relaxed",
+          "imageMediaUrl": "https://stream.zyphonic.co.uk/api/station/relaxed/art/-1",
+          "plsUrl": "https://stream.zyphonic.co.uk/public/relaxed/playlist.pls",
+          "publicPlayerUrl": "https://stream.zyphonic.co.uk/public/relaxed",
+          "preferredMount": "https://stream.zyphonic.co.uk/listen/relaxed/stream",
+          "description": "Your Non-Stop Relaxing Soundtrack",
+          "supportsHls": true,
+          "hlsUrl": "https://stream.zyphonic.co.uk/hls/relaxed/live.m3u8"
         }
       ]
     },
     {
-      "lastUpdated": "Oct 2026",
+      "lastUpdated": "Nov 2026",
+      "title": "Dance & Rave",
+      "description": "Dance, EDM and rave, 24/7",
+      "stations": [
+        {
+          "friendlyName": "Zyphonic Dance",
+          "shortCode": "dance",
+          "imageMediaUrl": "https://stream.zyphonic.co.uk/api/station/dance/art/-1",
+          "plsUrl": "https://stream.zyphonic.co.uk/public/dance/playlist.pls",
+          "publicPlayerUrl": "https://stream.zyphonic.co.uk/public/dance",
+          "preferredMount": "https://radio.bandofgold.co.uk/listen/dance/stream",
+          "description": "Mixing the Biggest Dance Tracks 24/7",
+          "supportsHls": true,
+          "hlsUrl": "https://radio.bandofgold.co.uk/hls/dance/live.m3u8"
+        },
+        {
+          "friendlyName": "Zyphonic Rave",
+          "shortCode": "rave",
+          "imageMediaUrl": "https://stream.zyphonic.co.uk/api/station/rave/art/-1",
+          "plsUrl": "https://stream.zyphonic.co.uk/public/rave/playlist.pls",
+          "publicPlayerUrl": "https://stream.zyphonic.co.uk/public/rave",
+          "preferredMount": "https://stream.zyphonic.co.uk/listen/rave/stream",
+          "description": "",
+          "supportsHls": true,
+          "hlsUrl": "https://stream.zyphonic.co.uk/hls/rave/live.m3u8"
+        }
+      ]
+    },
+    {
+      "lastUpdated": "Nov 2026",
+      "title": "Hits & Throwbacks",
+      "description": "Golden-era classics and throwback favourites",
+      "stations": [
+        {
+          "friendlyName": "Zyphonic Anthems",
+          "shortCode": "anthems",
+          "imageMediaUrl": "https://stream.zyphonic.co.uk/api/station/anthems/art/-1",
+          "plsUrl": "https://stream.zyphonic.co.uk/public/anthems/playlist.pls",
+          "publicPlayerUrl": "https://stream.zyphonic.co.uk/public/anthems",
+          "preferredMount": "https://lakeside.party/listen/anthems/stream",
+          "description": "Feel-Good Favorites & Timeless Classics from the Golden Eras of Music.",
+          "supportsHls": true,
+          "hlsUrl": "https://lakeside.party/hls/anthems/live.m3u8"
+        },
+        {
+          "friendlyName": "Zyphonic Throwbacks",
+          "shortCode": "throwbacks",
+          "imageMediaUrl": "https://stream.zyphonic.co.uk/api/station/throwbacks/art/-1",
+          "plsUrl": "https://stream.zyphonic.co.uk/public/throwbacks/playlist.pls",
+          "publicPlayerUrl": "https://stream.zyphonic.co.uk/public/throwbacks",
+          "preferredMount": "https://stream.zyphonic.co.uk/listen/throwbacks/stream",
+          "description": "All Your Throwback Classics",
+          "supportsHls": true,
+          "hlsUrl": "https://stream.zyphonic.co.uk/hls/throwbacks/live.m3u8"
+        }
+      ]
+    },
+    {
+      "lastUpdated": "Nov 2026",
+      "title": "Games & Seasonal",
+      "description": "Game soundtracks and festive tunes",
+      "stations": [
+        {
+          "friendlyName": "Zyphonic LevelUp",
+          "shortCode": "levelup",
+          "imageMediaUrl": "https://stream.zyphonic.co.uk/api/station/levelup/art/-1",
+          "plsUrl": "https://stream.zyphonic.co.uk/public/levelup/playlist.pls",
+          "publicPlayerUrl": "https://stream.zyphonic.co.uk/public/levelup",
+          "preferredMount": "https://lakeside.party/listen/levelup/stream",
+          "description": "The Music from your Favourite Games.",
+          "supportsHls": true,
+          "hlsUrl": "https://lakeside.party/hls/levelup/live.m3u8"
+        },
+        {
+          "friendlyName": "Zyphonic XMAS",
+          "shortCode": "xmas",
+          "imageMediaUrl": "https://stream.zyphonic.co.uk/api/station/xmas/art/-1",
+          "plsUrl": "https://stream.zyphonic.co.uk/public/xmas/playlist.pls",
+          "publicPlayerUrl": "https://stream.zyphonic.co.uk/public/xmas",
+          "preferredMount": "https://stream.zyphonic.co.uk/listen/xmas/stream",
+          "description": "Happy Christmas from Zyphonic!",
+          "supportsHls": true,
+          "hlsUrl": "https://stream.zyphonic.co.uk/hls/xmas/live.m3u8"
+        }
+      ]
+    },
+    {
+      "lastUpdated": "Nov 2026",
       "title": "Independent Stations",
-      "description": "Standalone stations from the Typical Nerds network",
+      "description": "Standalone stations from the Zyphonic network",
       "stations": [
         {
           "friendlyName": "FLU DRUID FM",
           "shortCode": "flu-druid",
-          "imageMediaUrl": "https://live.typicalnerds.co.uk/api/station/flu-druid/art/-1",
-          "plsUrl": "https://live.typicalnerds.co.uk/public/flu-druid/playlist.pls",
-          "publicPlayerUrl": "https://live.typicalnerds.co.uk/public/flu-druid",
-          "preferredMount": "https://live.typicalnerds.co.uk/listen/flu-druid/stream",
+          "imageMediaUrl": "https://stream.zyphonic.co.uk/api/station/flu-druid/art/-1",
+          "plsUrl": "https://stream.zyphonic.co.uk/public/flu-druid/playlist.pls",
+          "publicPlayerUrl": "https://stream.zyphonic.co.uk/public/flu-druid",
+          "preferredMount": "https://stream.zyphonic.co.uk/listen/flu-druid/stream",
           "description": "Non-Stop Tracks By FLU DRUID",
           "supportsHls": false,
           "hlsUrl": null
@@ -111,24 +187,24 @@
         {
           "friendlyName": "ilikeRadio",
           "shortCode": "ilikeradio",
-          "imageMediaUrl": "https://live.typicalnerds.co.uk/api/station/ilikeradio/art/-1",
-          "plsUrl": "https://live.typicalnerds.co.uk/public/ilikeradio/playlist.pls",
-          "publicPlayerUrl": "https://live.typicalnerds.co.uk/public/ilikeradio",
+          "imageMediaUrl": "https://stream.zyphonic.co.uk/api/station/ilikeradio/art/-1",
+          "plsUrl": "https://stream.zyphonic.co.uk/public/ilikeradio/playlist.pls",
+          "publicPlayerUrl": "https://stream.zyphonic.co.uk/public/ilikeradio",
           "preferredMount": "https://stream.zeno.fm/otmlz6yddt6vv",
           "description": "All the music you like, all in one place.",
           "supportsHls": true,
-          "hlsUrl": "https://live.typicalnerds.co.uk/hls/ilikeradio/live.m3u8"
+          "hlsUrl": "https://stream.zyphonic.co.uk/hls/ilikeradio/live.m3u8"
         },
         {
           "friendlyName": "Swarm Radio",
           "shortCode": "swarm",
-          "imageMediaUrl": "https://live.typicalnerds.co.uk/api/station/swarm/art/-1",
-          "plsUrl": "https://live.typicalnerds.co.uk/public/swarm/playlist.pls",
-          "publicPlayerUrl": "https://live.typicalnerds.co.uk/public/swarm",
+          "imageMediaUrl": "https://stream.zyphonic.co.uk/api/station/swarm/art/-1",
+          "plsUrl": "https://stream.zyphonic.co.uk/public/swarm/playlist.pls",
+          "publicPlayerUrl": "https://stream.zyphonic.co.uk/public/swarm",
           "preferredMount": "https://stream.zeno.fm/acunkwb7nf9uv",
           "description": "Neuro-Samas Unofficial Radio Station",
           "supportsHls": true,
-          "hlsUrl": "https://live.typicalnerds.co.uk/hls/swarm/live.m3u8"
+          "hlsUrl": "https://stream.zyphonic.co.uk/hls/swarm/live.m3u8"
         }
       ]
     }
